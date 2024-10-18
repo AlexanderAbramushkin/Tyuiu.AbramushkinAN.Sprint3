@@ -9,7 +9,7 @@ namespace Tyuiu.AbramushkinAN.Sprint3.Task0.V8.Lib
             int i;
             for (i = startValue; i <= stopValue; i++)
             {
-                result *= ( (Math.Pow(value, i) + 1) * Math.Cos(4));2
+                result *= ( (Math.Pow(value, i) + 1) * Math.Cos(4));
             }
             return result;
         }

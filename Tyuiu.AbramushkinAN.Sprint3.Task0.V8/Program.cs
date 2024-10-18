@@ -28,7 +28,7 @@ namespace Tyuiu.AbramushkinAN.Sprint3.Task0.V8
             Console.WriteLine("***************************************************************************");
 
             Console.WriteLine($"Переменная a = {value}");
-            Console.WriteLine($"Старт шага = {startValue}");2
+            Console.WriteLine($"Старт шага = {startValue}");
             Console.WriteLine($"Конец шага = {stopValue}");
 
 
