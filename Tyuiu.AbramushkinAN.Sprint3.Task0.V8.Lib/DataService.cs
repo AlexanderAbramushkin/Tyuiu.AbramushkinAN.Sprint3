@@ -11,7 +11,7 @@ namespace Tyuiu.AbramushkinAN.Sprint3.Task0.V8.Lib
             {
                 result *= ( (Math.Pow(value, i) + 1) * Math.Cos(4));
             }
-            return result;
+            return Math.Round(result,3);
         }
     }
 }
