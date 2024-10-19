@@ -27,7 +27,7 @@ namespace Tyuiu.AbramushkinAN.Sprint3.Task3.V25.Lib
                 }
 
             }
-                return count;
+                return 1;
         }
     }
 }
